@@ -31,7 +31,7 @@ data: "coming-soon"
 
 ## Method
 
-![Turing Machine](/static/image/overview.png)
+![Turing Machine](/static/image/overview.svg)
 
 *Figure 1: Overview of FlashTalker. The Audio-to-Expression Translation module predicts FLAME expression parameters from audio input and combines them with tracked FLAME parameters to drive the deformation of a parameterized head model.
 UV-based sampling is employed to uniformly distribute 3D Gaussians across the mesh surface, while additional Gaussians are placed on the teeth to construct the template Gaussian field.
