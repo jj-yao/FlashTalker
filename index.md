@@ -54,6 +54,6 @@ Visual comparison of cross-identity audio-driven talking head generation. Cross-
 ## Ablation Study
 
 <div style="display: flex; gap: 20px; align-items: center;">
-  <img src="/static/image/teeth-lip_ablation.svg" alt="Turing Machine" width="45%">
-  <img src="/static/image/wrinkles-eyes_ablation.svg" alt="Turing Machine" width="45%">
+    <img src="{{ '/static/image/teeth-lip_ablation.svg' | relative_url }}" alt="Turing Machine" width="45%">
+    <img src="{{ '/static/image/wrinkles-eyes_ablation.svg' | relative_url }}" alt="Turing Machine" width="45%">
 </div>
